@@ -1,5 +1,5 @@
 # THE-BOOK
-the hackathon project for hack off 3.0
+
 
 IDEA - Ebooks are cheap and portable, you can take your device with you anywhere with a whole library in it, but still ebooks are not preffered over physical books by most of the booklovers they just don't give the book reading experience which a physical book provides, So what if we give the immersive book reading experience of physical book with the cost effectiveness and portability. 
 
